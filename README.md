@@ -1,7 +1,5 @@
 ### Hi there 👋!
 
-### 🚀 About Me
-
 🎓 i'm Simon a passionate **Front End Web Developer**  from Argentina.
 
 
