@@ -17,5 +17,5 @@ Beyond my technical expertise, I strongly believe in the value of personal growt
 
 #### How to Reach Me 📫
 
-[![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sim%C3%B3n-vizioli/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://simonvizioli.github.io/resume/)
+[![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sim%C3%B3n-vizioli/)
